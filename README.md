@@ -11,6 +11,6 @@ Available Commands:
   * set line_width x : Sets the dimensions of the pencil with which we will draw the lines.
   * draw line y1 x1 y2 x2 : Draws a line between two pixels.
   * draw rectangle y1 x1 width height : Draws a rectangle with a certain width and height starting at a given pixel.
-  * draw triangle y1 x1 y2 x2 y3 x3 : Draws a triangle between three pixels. (It consists of three "Draw lines commands").
+  * draw triangle y1 x1 y2 x2 y3 x3 : Draws a triangle between three pixels. (It consists of three "Draw line commands").
   * fill y x : Colors the given pixel and all the adjacent pixels which are the same color.
   * quit : Frees the memory and closes the program.
