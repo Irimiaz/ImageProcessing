@@ -14,16 +14,3 @@ Available Commands:
   * draw triangle y1 x1 y2 x2 y3 x3 : Draws a triangle between three pixels. (It consists of three "Draw lines commands").
   * fill y x : Colors the given pixel and all the adjacent pixels which are the same color.
   * quit : Frees the memory and closes the program.
-  
-  
-* Save: Save/overwrite the image from edit mode in path.
-* Edit: Loads the image into the application's memory for editing.
-* Insert: Inserts the image (full or cropped) from path over the one in edit mode. 
-* Set draw_color: Sets a color that will be used either to draw or to fill an area.
-* Set line_width: Sets the dimensions of the pencil with which we will draw the lines.
-* Draw line: Draws a line between two pixels.
-* Draw rectangle: Draws a rectangle with a certain width and height starting at a given pixel.
-* Draw triangle: Draws a triangle between three pixels. (It consists of three "Draw lines commands").
-* Fill: Colors the given pixel and all the adjacent pixels which are the same color.
-* Quit: Frees the memory and closes the program.
-  
